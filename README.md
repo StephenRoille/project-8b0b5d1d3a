@@ -1,4 +1,4 @@
-An example static site created with Next.js and Markdown.
+An example static site created with Next.js and Markdown ([preview](https://project-8b0b5d1d3a.vercel.app/)).
 
 ## Credit
 
